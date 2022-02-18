@@ -67,12 +67,12 @@ namabot = setting.BotName
 namaowner = setting.OwnerName
 nomorowner = setting.OwnerNumber
 website = "https://ramdaniofficial.blogspot.com/?m=1"
-wa = "wa.me/6289512545999"
-ig = "Ramdani store"
+wa = "wa.me/6285803583481"
+ig = "erlanrahmat_14"
 tt = "iFanny Tiktok"
 yt = "Ramdani Official"
-github = "RamdaniStore"
-heroku = "RamdaniOfficial"
+github = "ERLANRAHMAT"
+heroku = "ERLANRAHMAT"
 
 //━━━━━━━━━━━━━━━[ Sticker WM ]━━━━━━━━━━━━━━━\\
 
